@@ -4,7 +4,7 @@ A recruiter-focused template optimized for Data Analytics, AI, and Software Engi
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20a%20Data%20Analyst%20%26%20AI%20Developer!&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Data%20Analyst%20and%20AI%20Developer&fontSize=50&animation=fadeIn" />
 </div>
 
 <h1 align="center">Data Scientist | Machine Learning Enthusiast | AI Developer | Python Developer</h1>
