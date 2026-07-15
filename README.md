@@ -46,23 +46,23 @@ A recruiter-focused template optimized for Data Analytics, AI, and Software Engi
 
 ## 🏆 Featured Projects (Pinned Repositories)
 
-### 📈 [Student Performance Analysis System (SPAS)](URL_TO_REPO)
+### 📈 [Student Performance Analysis System (SPAS)](https://github.com/sinanmuhammedsk/spas)
 > **Stack:** Python, Scikit-Learn, Streamlit, Pandas
 * End-to-end Machine Learning pipeline predicting academic outcomes. Includes comprehensive Exploratory Data Analysis, rigorous R2/MSE model evaluation, and an interactive Streamlit web dashboard.
 
-### 🏭 [Inventory Demand Forecasting System](URL_TO_REPO)
+### 🏭 [Inventory Demand Forecasting System](https://github.com/sinanmuhammedsk/inventory-demand-forecasting-system)
 > **Stack:** Python, Time Series Analysis, Statistical Modeling
 * Supply chain optimization tool utilizing historical data to predict future inventory demand. Prevents stockouts and reduces holding costs through data-driven forecasting algorithms.
 
-### 🚌 [College Bus Tracking and Management System](URL_TO_REPO)
+### 🚌 [College Bus Tracking and Management System](https://github.com/sinanmuhammedsk/College-Bus-Tracking-and-Management-System)
 > **Stack:** Oracle SQL, HTML/CSS/JS, Database Triggers
 * Comprehensive backend architecture modeling real-world logistics. Features in-memory SQL sandbox processing, structured triggers for automated logging, and a dedicated UI dashboard for route and fee tracking.
 
-### 📄 [Enterprise Semantic Analysis System (AI PDF System)](URL_TO_REPO)
+### 📄 [Enterprise Semantic Analysis System (AI PDF System)](https://github.com/sinanmuhammedsk/aipdfsystem)
 > **Stack:** Python, NLP, AI Frameworks
 * Advanced semantic search application capable of ingesting PDF documents and extracting meaningful insights automatically, vastly improving enterprise knowledge retrieval efficiency.
 
-### 🛒 [Walmart BI Metrics Dashboard](URL_TO_REPO)
+### 🛒 [Walmart BI Metrics Dashboard](https://github.com/sinanmuhammedsk/Walmart-BI-Metrics-Dashboard)
 > **Stack:** Power BI, SQL, Data Visualization
 * High-volume business intelligence dashboard tracking key performance indicators for retail data, analyzing thousands of records to provide actionable strategic insights.
 
