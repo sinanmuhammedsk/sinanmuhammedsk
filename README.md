@@ -80,13 +80,33 @@ A recruiter-focused template optimized for Data Analytics, AI, and Software Engi
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sinanmuhammedsk&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://komarev.com/ghpvc/?username=sinanmuhammedsk&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sinanmuhammedsk&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  </a>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinanmuhammedsk&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinanmuhammedsk&theme=radical&hide_border=true" width="48%" />
 </div>
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinanmuhammedsk&layout=compact&theme=radical&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinanmuhammedsk&layout=compact&theme=radical&hide_border=true" width="48%" />
+</div>
+<br>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinanmuhammedsk&theme=radical&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  </a>
+</div>
 
 ---
 
