@@ -14,10 +14,10 @@ A recruiter-focused template optimized for Data Analytics, AI, and Software Engi
 </p>
 
 <p align="center">
-  <a href="URL_TO_YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
-  <a href="URL_TO_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@DOMAIN.COM"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="URL_TO_YOUR_RESUME_PDF"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=red" alt="Resume"></a>
+  <a href="https://sinanmuhammedsk.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/sinanmuhammedsk"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sinanmssk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://drive.google.com/file/d/1M3XfzDQn9lenbYMRQRtKOSVsqS4I58dd/view"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=red" alt="Resume"></a>
 </p>
 
 ---
@@ -27,7 +27,7 @@ A recruiter-focused template optimized for Data Analytics, AI, and Software Engi
 - 🔭 I’m currently working on building advanced **Data Analytics Dashboards** and **AI-driven applications**.
 - 🧠 My core focus lies in **Machine Learning (Predictive Modeling)**, **Natural Language Processing (NLP)**, and **Database Architecture**.
 - 🛠 I specialize in blending analytical rigor with backend engineering to create end-to-end solutions.
-- 📫 How to reach me: Connect with me on [LinkedIn](URL_TO_YOUR_LINKEDIN) or drop an [email](mailto:YOUR_EMAIL@DOMAIN.COM).
+- 📫 How to reach me: Connect with me on [LinkedIn](https://linkedin.com/in/sinanmuhammedsk) or drop an [email](mailto:sinanmssk@gmail.com).
 
 ---
 
@@ -46,19 +46,19 @@ A recruiter-focused template optimized for Data Analytics, AI, and Software Engi
 
 ## 🏆 Featured Projects (Pinned Repositories)
 
-### 📈 [Student Performance Analysis System (SPAS)](https://github.com/sinanmuhammedsk/spas)
+### 📈 [Student Performance Analysis System (SPAS)](https://github.com/sinanmuhammedsk/spas) | **[🔗 Live App](https://spas-zeta.vercel.app)**
 > **Stack:** Python, Scikit-Learn, Streamlit, Pandas
 * End-to-end Machine Learning pipeline predicting academic outcomes. Includes comprehensive Exploratory Data Analysis, rigorous R2/MSE model evaluation, and an interactive Streamlit web dashboard.
 
-### 🏭 [Inventory Demand Forecasting System](https://github.com/sinanmuhammedsk/inventory-demand-forecasting-system)
+### 🏭 [Inventory Demand Forecasting System](https://github.com/sinanmuhammedsk/inventory-demand-forecasting-system) | **[🔗 Live App](https://inventory-demand-forecasting-platfo.vercel.app/)**
 > **Stack:** Python, Time Series Analysis, Statistical Modeling
 * Supply chain optimization tool utilizing historical data to predict future inventory demand. Prevents stockouts and reduces holding costs through data-driven forecasting algorithms.
 
-### 🚌 [College Bus Tracking and Management System](https://github.com/sinanmuhammedsk/College-Bus-Tracking-and-Management-System)
+### 🚌 [College Bus Tracking and Management System](https://github.com/sinanmuhammedsk/College-Bus-Tracking-and-Management-System) | **[🔗 Live App](https://college-bus-tracking-and-management.vercel.app/)**
 > **Stack:** Oracle SQL, HTML/CSS/JS, Database Triggers
 * Comprehensive backend architecture modeling real-world logistics. Features in-memory SQL sandbox processing, structured triggers for automated logging, and a dedicated UI dashboard for route and fee tracking.
 
-### 📄 [Enterprise Semantic Analysis System (AI PDF System)](https://github.com/sinanmuhammedsk/aipdfsystem)
+### 📄 [Enterprise Semantic Analysis System (AI PDF System)](https://github.com/sinanmuhammedsk/aipdfsystem) | **[🔗 Live App](https://aipdfsystem.vercel.app)**
 > **Stack:** Python, NLP, AI Frameworks
 * Advanced semantic search application capable of ingesting PDF documents and extracting meaningful insights automatically, vastly improving enterprise knowledge retrieval efficiency.
 
